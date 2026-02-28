@@ -7,6 +7,7 @@
 | [0225-implement-stack-using-queues](https://github.com/gitsam74/sam_leet74/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gitsam74/sam_leet74/tree/master/0232-implement-queue-using-stacks) |
 | [0895-maximum-frequency-stack](https://github.com/gitsam74/sam_leet74/tree/master/0895-maximum-frequency-stack) |
+| [0936-stamping-the-sequence](https://github.com/gitsam74/sam_leet74/tree/master/0936-stamping-the-sequence) |
 | [0946-validate-stack-sequences](https://github.com/gitsam74/sam_leet74/tree/master/0946-validate-stack-sequences) |
 | [1172-dinner-plate-stacks](https://github.com/gitsam74/sam_leet74/tree/master/1172-dinner-plate-stacks) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/gitsam74/sam_leet74/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -24,6 +25,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/gitsam74/sam_leet74/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gitsam74/sam_leet74/tree/master/0232-implement-queue-using-stacks) |
+| [0936-stamping-the-sequence](https://github.com/gitsam74/sam_leet74/tree/master/0936-stamping-the-sequence) |
 ## Array
 |  |
 | ------- |
@@ -51,4 +53,12 @@
 |  |
 | ------- |
 | [1172-dinner-plate-stacks](https://github.com/gitsam74/sam_leet74/tree/master/1172-dinner-plate-stacks) |
+## String
+|  |
+| ------- |
+| [0936-stamping-the-sequence](https://github.com/gitsam74/sam_leet74/tree/master/0936-stamping-the-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0936-stamping-the-sequence](https://github.com/gitsam74/sam_leet74/tree/master/0936-stamping-the-sequence) |
 <!---LeetCode Topics End-->
