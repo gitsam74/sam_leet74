@@ -11,6 +11,7 @@
 | [0946-validate-stack-sequences](https://github.com/gitsam74/sam_leet74/tree/master/0946-validate-stack-sequences) |
 | [1172-dinner-plate-stacks](https://github.com/gitsam74/sam_leet74/tree/master/1172-dinner-plate-stacks) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/gitsam74/sam_leet74/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1441-build-an-array-with-stack-operations](https://github.com/gitsam74/sam_leet74/tree/master/1441-build-an-array-with-stack-operations) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/gitsam74/sam_leet74/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Design
 |  |
@@ -31,6 +32,7 @@
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/gitsam74/sam_leet74/tree/master/0946-validate-stack-sequences) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/gitsam74/sam_leet74/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1441-build-an-array-with-stack-operations](https://github.com/gitsam74/sam_leet74/tree/master/1441-build-an-array-with-stack-operations) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/gitsam74/sam_leet74/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
@@ -40,6 +42,7 @@
 |  |
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/gitsam74/sam_leet74/tree/master/0946-validate-stack-sequences) |
+| [1441-build-an-array-with-stack-operations](https://github.com/gitsam74/sam_leet74/tree/master/1441-build-an-array-with-stack-operations) |
 ## Hash Table
 |  |
 | ------- |
