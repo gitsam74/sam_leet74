@@ -6,6 +6,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/gitsam74/sam_leet74/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gitsam74/sam_leet74/tree/master/0232-implement-queue-using-stacks) |
+| [0946-validate-stack-sequences](https://github.com/gitsam74/sam_leet74/tree/master/0946-validate-stack-sequences) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/gitsam74/sam_leet74/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Design
 |  |
@@ -20,9 +21,14 @@
 ## Array
 |  |
 | ------- |
+| [0946-validate-stack-sequences](https://github.com/gitsam74/sam_leet74/tree/master/0946-validate-stack-sequences) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/gitsam74/sam_leet74/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/gitsam74/sam_leet74/tree/master/1944-number-of-visible-people-in-a-queue) |
+## Simulation
+|  |
+| ------- |
+| [0946-validate-stack-sequences](https://github.com/gitsam74/sam_leet74/tree/master/0946-validate-stack-sequences) |
 <!---LeetCode Topics End-->
