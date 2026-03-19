@@ -85,6 +85,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/gitsam74/sam_leet74/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/gitsam74/sam_leet74/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0147-insertion-sort-list](https://github.com/gitsam74/sam_leet74/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/gitsam74/sam_leet74/tree/master/0148-sort-list) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/gitsam74/sam_leet74/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Divide and Conquer
@@ -135,6 +136,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/gitsam74/sam_leet74/tree/master/0056-merge-intervals) |
+| [0147-insertion-sort-list](https://github.com/gitsam74/sam_leet74/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/gitsam74/sam_leet74/tree/master/0148-sort-list) |
 ## Tree
 |  |
