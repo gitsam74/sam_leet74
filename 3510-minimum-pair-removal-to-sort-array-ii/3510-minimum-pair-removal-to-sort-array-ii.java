@@ -1,90 +1,86 @@
 class Solution {
-    public int minimumPairRemoval(int[] nums) {
-        int n = nums.length;
-        if (n <= 1) return 0;
-
-        long[] arr = new long[n];
-        for (int i = 0; i < n; ++i) arr[i] = nums[i];
-        boolean[] removed = new boolean[n];
-
-        PriorityQueue<P> pq = new PriorityQueue<>(new java.util.Comparator<P>() {
-            public int compare(P a, P b) {
-                if (a.sum < b.sum) return -1;
-                if (a.sum > b.sum) return 1;
-                return Integer.compare(a.idx, b.idx);
-            }
-        });
-
-        int sorted = 0;
-        for (int i = 1; i < n; ++i) {
-            pq.add(new P(arr[i - 1] + arr[i], i - 1));
-            if (arr[i] >= arr[i - 1]) sorted++;
-        }
-        if (sorted == n - 1) return 0;
-
-        int rem = n;
-        int[] prev = new int[n];
-        int[] next = new int[n];
-        for (int i = 0; i < n; ++i) {
-            prev[i] = i - 1;
-            next[i] = i + 1;
-        }
-
-        while (rem > 1) {
-            P top = pq.poll();
-            if (top == null) break;
-
-            long sum = top.sum;
-            int left = top.idx;
-            int right = next[left];
-
-            if (right >= n || removed[left] || removed[right] || arr[left] + arr[right] != sum)
-                continue;
-
-            int pre = prev[left];
-            int nxt = next[right];
-
-            // remove old sorted contributions
-            if (arr[left] <= arr[right]) sorted--;
-            if (pre != -1 && arr[pre] <= arr[left]) sorted--;
-            if (nxt != n && arr[right] <= arr[nxt]) sorted--;
-
-            // merge
-            arr[left] += arr[right];
-            removed[right] = true;
-            rem--;
-
-            // connect pre <-> left
-            if (pre != -1) {
-                pq.add(new P(arr[pre] + arr[left], pre));
-                if (arr[pre] <= arr[left]) sorted++;
-            } else {
-                prev[left] = -1;
-            }
-
-            // connect left <-> nxt
-            if (nxt != n) {
-                prev[nxt] = left;
-                next[left] = nxt;
-                pq.add(new P(arr[left] + arr[nxt], left));
-                if (arr[left] <= arr[nxt]) sorted++;
-            } else {
-                next[left] = n;
-            }
-
-            if (sorted == rem - 1)
-                return n - rem;
-        }
-
-        return n;
+    static class Node {
+        long sum;
+        int i;
+        Node(long sum, int i) { this.sum = sum; this.i = i; }
     }
 
-    private static class P {
-        long sum;
-        int idx;
-        P(long s, int i) {
-            sum = s;
-            idx = i;
+    public int minimumPairRemoval(int[] nums) {
+        int n = nums.length;
+        if (n <= 1) 
+            return 0;
+
+        long[] a = new long[n];
+        for (int i = 0; i < n; i++) 
+            a[i] = nums[i];
+
+        int[] left = new int[n];
+        int[] right = new int[n];
+        for (int i = 0; i < n; i++) {
+            left[i] = i - 1;
+            right[i] = (i + 1 < n) ? i + 1 : -1;
         }
+
+        PriorityQueue<Node> heap = new PriorityQueue<>((p, q) -> {
+            if (p.sum != q.sum) 
+                return Long.compare(p.sum, q.sum);
+            return Integer.compare(p.i, q.i);
+        });
+
+        for (int i = 0; i < n - 1; i++) 
+            heap.add(new Node(a[i] + a[i + 1], i));
+
+        int rest = 0;
+        for (int i = 0; i < n - 1; i++) 
+            if (a[i] > a[i + 1]) 
+                rest++;
+
+        int ans = 0;
+
+        while (rest > 0) {
+            Node cur = heap.poll();
+            long v = cur.sum;
+            int i = cur.i;
+
+            int r = right[i];
+            if (r == -1) 
+                continue;
+            if (left[r] != i) 
+                continue;
+            if (a[i] + a[r] != v) 
+                continue; 
+
+            int li = left[i];
+            int rr = right[r];
+
+            if (li != -1 && right[li] == i && a[li] > a[i]) 
+                rest--;
+            if (a[i] > a[r]) 
+                rest--;
+            if (rr != -1 && left[rr] == r && a[r] > a[rr]) 
+                rest--;
+
+            a[i] = v;
+
+            right[i] = rr;
+            if (rr != -1) 
+                left[rr] = i;
+            left[r] = -1;
+            right[r] = -1;
+
+            if (li != -1 && right[li] == i && a[li] > a[i]) 
+                rest++;
+            if (rr != -1 && left[rr] == i && a[i] > a[rr]) 
+                rest++;
+
+            if (li != -1 && right[li] == i) 
+                heap.add(new Node(a[li] + a[i], li));
+            if (rr != -1 && left[rr] == i) 
+                heap.add(new Node(a[i] + a[rr], i));
+
+            ans++;
+        }
+
+        return ans;
     }
 }
