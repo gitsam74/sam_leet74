@@ -37,6 +37,7 @@
 | [1381-design-a-stack-with-increment-operation](https://github.com/gitsam74/sam_leet74/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/gitsam74/sam_leet74/tree/master/1441-build-an-array-with-stack-operations) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/gitsam74/sam_leet74/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/gitsam74/sam_leet74/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -46,21 +47,25 @@
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/gitsam74/sam_leet74/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/gitsam74/sam_leet74/tree/master/1441-build-an-array-with-stack-operations) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/gitsam74/sam_leet74/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gitsam74/sam_leet74/tree/master/0001-two-sum) |
 | [0895-maximum-frequency-stack](https://github.com/gitsam74/sam_leet74/tree/master/0895-maximum-frequency-stack) |
 | [1172-dinner-plate-stacks](https://github.com/gitsam74/sam_leet74/tree/master/1172-dinner-plate-stacks) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/gitsam74/sam_leet74/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/gitsam74/sam_leet74/tree/master/0895-maximum-frequency-stack) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/gitsam74/sam_leet74/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/gitsam74/sam_leet74/tree/master/0023-merge-k-sorted-lists) |
 | [1172-dinner-plate-stacks](https://github.com/gitsam74/sam_leet74/tree/master/1172-dinner-plate-stacks) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/gitsam74/sam_leet74/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## String
 |  |
 | ------- |
@@ -73,6 +78,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/gitsam74/sam_leet74/tree/master/0023-merge-k-sorted-lists) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/gitsam74/sam_leet74/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -81,4 +87,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/gitsam74/sam_leet74/tree/master/0023-merge-k-sorted-lists) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/gitsam74/sam_leet74/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
