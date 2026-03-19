@@ -80,15 +80,18 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/gitsam74/sam_leet74/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/gitsam74/sam_leet74/tree/master/0148-sort-list) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/gitsam74/sam_leet74/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/gitsam74/sam_leet74/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/gitsam74/sam_leet74/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/gitsam74/sam_leet74/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/gitsam74/sam_leet74/tree/master/0148-sort-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -117,4 +120,12 @@
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/gitsam74/sam_leet74/tree/master/3312-sorted-gcd-pair-queries) |
+## Two Pointers
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/gitsam74/sam_leet74/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/gitsam74/sam_leet74/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
