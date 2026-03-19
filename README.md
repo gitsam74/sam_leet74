@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gitsam74/sam_leet74/tree/master/0001-two-sum) |
+| [0056-merge-intervals](https://github.com/gitsam74/sam_leet74/tree/master/0056-merge-intervals) |
 | [0946-validate-stack-sequences](https://github.com/gitsam74/sam_leet74/tree/master/0946-validate-stack-sequences) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/gitsam74/sam_leet74/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/gitsam74/sam_leet74/tree/master/1441-build-an-array-with-stack-operations) |
@@ -127,5 +128,6 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/gitsam74/sam_leet74/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/gitsam74/sam_leet74/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
