@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gitsam74/sam_leet74/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/gitsam74/sam_leet74/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/gitsam74/sam_leet74/tree/master/0056-merge-intervals) |
 | [0946-validate-stack-sequences](https://github.com/gitsam74/sam_leet74/tree/master/0946-validate-stack-sequences) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/gitsam74/sam_leet74/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -104,6 +105,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/gitsam74/sam_leet74/tree/master/0035-search-insert-position) |
 | [3312-sorted-gcd-pair-queries](https://github.com/gitsam74/sam_leet74/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
