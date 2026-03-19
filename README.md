@@ -41,6 +41,7 @@
 | [1381-design-a-stack-with-increment-operation](https://github.com/gitsam74/sam_leet74/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/gitsam74/sam_leet74/tree/master/1441-build-an-array-with-stack-operations) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/gitsam74/sam_leet74/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2191-sort-the-jumbled-numbers](https://github.com/gitsam74/sam_leet74/tree/master/2191-sort-the-jumbled-numbers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/gitsam74/sam_leet74/tree/master/3312-sorted-gcd-pair-queries) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/gitsam74/sam_leet74/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Monotonic Stack
@@ -138,6 +139,7 @@
 | [0056-merge-intervals](https://github.com/gitsam74/sam_leet74/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/gitsam74/sam_leet74/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/gitsam74/sam_leet74/tree/master/0148-sort-list) |
+| [2191-sort-the-jumbled-numbers](https://github.com/gitsam74/sam_leet74/tree/master/2191-sort-the-jumbled-numbers) |
 ## Tree
 |  |
 | ------- |
