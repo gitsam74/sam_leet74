@@ -59,6 +59,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/gitsam74/sam_leet74/tree/master/0023-merge-k-sorted-lists) |
 | [1172-dinner-plate-stacks](https://github.com/gitsam74/sam_leet74/tree/master/1172-dinner-plate-stacks) |
 ## String
 |  |
@@ -68,4 +69,16 @@
 |  |
 | ------- |
 | [0936-stamping-the-sequence](https://github.com/gitsam74/sam_leet74/tree/master/0936-stamping-the-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/gitsam74/sam_leet74/tree/master/0023-merge-k-sorted-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/gitsam74/sam_leet74/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/gitsam74/sam_leet74/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
