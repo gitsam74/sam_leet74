@@ -37,6 +37,7 @@
 | [1381-design-a-stack-with-increment-operation](https://github.com/gitsam74/sam_leet74/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/gitsam74/sam_leet74/tree/master/1441-build-an-array-with-stack-operations) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/gitsam74/sam_leet74/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [3312-sorted-gcd-pair-queries](https://github.com/gitsam74/sam_leet74/tree/master/3312-sorted-gcd-pair-queries) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/gitsam74/sam_leet74/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Monotonic Stack
 |  |
@@ -54,6 +55,7 @@
 | [0001-two-sum](https://github.com/gitsam74/sam_leet74/tree/master/0001-two-sum) |
 | [0895-maximum-frequency-stack](https://github.com/gitsam74/sam_leet74/tree/master/0895-maximum-frequency-stack) |
 | [1172-dinner-plate-stacks](https://github.com/gitsam74/sam_leet74/tree/master/1172-dinner-plate-stacks) |
+| [3312-sorted-gcd-pair-queries](https://github.com/gitsam74/sam_leet74/tree/master/3312-sorted-gcd-pair-queries) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/gitsam74/sam_leet74/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Ordered Set
 |  |
@@ -91,4 +93,28 @@
 |  |
 | ------- |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/gitsam74/sam_leet74/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Math
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/gitsam74/sam_leet74/tree/master/3312-sorted-gcd-pair-queries) |
+## Binary Search
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/gitsam74/sam_leet74/tree/master/3312-sorted-gcd-pair-queries) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/gitsam74/sam_leet74/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/gitsam74/sam_leet74/tree/master/3312-sorted-gcd-pair-queries) |
+## Number Theory
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/gitsam74/sam_leet74/tree/master/3312-sorted-gcd-pair-queries) |
+## Prefix Sum
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/gitsam74/sam_leet74/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
